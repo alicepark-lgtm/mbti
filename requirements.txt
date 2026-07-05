@@ -1,3 +1,6 @@
+streamlit
+pandas
 plotly
-folium
+scikit-learn
+pycountry
 koreanize_matplotlib
